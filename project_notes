@@ -1,0 +1,17 @@
+
+בס"ד
+
+hello ! 
+during the test development I tried to stick to the practices below : 
+1) start with the data - Nir Kaufman lecture: https://www.youtube.com/watch?v=o8THlN8hgcw
+2) Decoupling - separate logic and view for more scalable, readable and maintainable app, (of course is not perfect)
+https://www.youtube.com/watch?v=jmcx3b78V8s
+https://www.youtube.com/watch?v=jvQxGQEaW8E&t=1762s – how to build large scale react apps  
+3) simulate dependencies injection which helps the component be decoupled from the logic 
+4) readable code and separate into small functions - uncle bob lecture part 1 
+5) js performance - using of Set for easily remove duplications and map in order to reach a ~O(1) searching complexity 
+
+
+notes : 
+1) I know the styling is far away from good but I have no much time to fix it 
+2) the graph view planed with max population proportion
