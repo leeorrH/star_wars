@@ -1,0 +1,25 @@
+.graphContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 50px;
+    text-align: center;
+}
+
+.bar{
+    position:'relative';
+    margin-right:20px;
+    width: 50px;
+    border: '1px solid';
+    background-color: 'chocolate'
+}
+
+.titleBottom{
+    position:'absolute';
+    bottom: -22px;
+}
+
+.titleTop{
+    position:'absolute';
+    top:-22px;
+}

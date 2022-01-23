@@ -1,0 +1,10 @@
+td > div { 
+    border: 1px solid;
+    padding: 10px;
+}
+
+.tableContainer { 
+    margin: 20px;
+    font-family: 'arial, sans-serif';
+    width: 80vw;
+}
