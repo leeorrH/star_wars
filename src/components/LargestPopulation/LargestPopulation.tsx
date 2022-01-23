@@ -1,5 +1,5 @@
-import { IApi, initResult } from '../../APIService'
-import '../LargestPopulation/LargestPopulation.css'
+import { IApi, initResult } from '../../API/APIService'
+import './LargestPopulation.css'
 interface Props {
     apiResult: initResult
     apiService: IApi

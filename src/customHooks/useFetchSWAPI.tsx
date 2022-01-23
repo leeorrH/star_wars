@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { IApi, initResult } from "../APIService";
+import { IApi, initResult } from "../API/APIService";
 
 interface IResult { 
     data : initResult | undefined

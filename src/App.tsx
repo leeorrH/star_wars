@@ -1,9 +1,9 @@
 import { useEffect } from 'react';
 //import { StarWarApi } from './API/StarWarsAPI';
 import {IApi} from './API/APIService'
-import { useFetch } from './API/customHooks/useFetchSWAPI';
-import LargestPopulation from './API/components/LargestPopulation/LargestPopulation';
-import PopulationGraph from './API/components/PopulationGraph/PopulationGraph';
+import { useFetch } from './customHooks/useFetchSWAPI';
+import LargestPopulation from './components/LargestPopulation/LargestPopulation';
+import PopulationGraph from './components/PopulationGraph/PopulationGraph';
 
 interface IProps {
   api : IApi;

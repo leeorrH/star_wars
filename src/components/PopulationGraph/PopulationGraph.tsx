@@ -1,4 +1,4 @@
-import { IApi, SEARCH_FIELDS } from '../../APIService'
+import { IApi, SEARCH_FIELDS } from '../../API/APIService'
 import { useSearch } from '../../customHooks/useSearchSWAPI'
 import './PopulationGraph.css'
 interface Props {

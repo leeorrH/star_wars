@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { IApi, SEARCH_FIELDS } from "../APIService";
+import { IApi, SEARCH_FIELDS } from "../API/APIService";
 
 interface IResult {
     data: any
